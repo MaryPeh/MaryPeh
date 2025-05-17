@@ -1,4 +1,6 @@
-<div align="center">
+
+
+   <div align="center">
   
 #  Marina Pedreira  
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk3d2V1Z2x2dWl1b2V6Y2VjZ3BjeHk5eTJ6cG5tY2ZlcWZ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMcB8XospGZO8UQq87/giphy.gif" width="200">
@@ -69,9 +71,76 @@
     </td>
   </tr>
 </table>
+<div align="center">
+
+<div align="center">
+
+## 🧠 HABILIDADES & COMPETÊNCIAS
+
+🎯 *Dashboard de habilidades técnicas, emocionais e estratégicas*
+
+---
+
+### ⚙️ Habilidades Técnicas
+
+| Habilidade             | Emoji | Nível            |
+| ---------------------- | ----- | ---------------- |
+| 🕵️‍♀️ OSINT           | 🧠🔍  | ██████ ░ 55%     |
+| 🧠 Engenharia Social   | 🗣️🧩 | █████████░░ 100% |
+| 📊 Gestão de Projetos  | 📋⚙️  | ████████░░  95%  |
+| ✍️ Design Instrucional | 🖍️📚 | ███████░░░ 70%   |
+| 🐍 Python              | 💻🧪  | ██████░░░░ 45%   |
+| 🔐 Risco Humano        | 🔍🧠  | █████░░░░░ 60%   |
+
+> 💡 *Escala de 0 a 100% — baseada em formação, prática e domínio atual.*
+
+---
+
+### 💡 Soft Skills Estratégicas
+
+| Comunicação | Criatividade | Liderança | Organização | Empatia    |
+| ----------- | ------------ | --------- | ----------- | ---------- |
+| 💬💬💬💬⚪   | 🎨🎨🎨🎨🎨   | 🚀🚀🚀🚀⚪ | 📅📅📅⚪⚪    | 💖💖💖💖💖 |
+
+---
+
+### 🧩 Diferenciais Humanos
+
+| Psicologia Aplicada | Visão Sistêmica | Pensamento Crítico | Curadoria de Conteúdo |
+| ------------------- | --------------- | ------------------ | --------------------- |
+| 🧠🧠🧠🧠🧠          | 🌐🌐🌐🌐🌐      | 🤔🤔🤔🤔🤔         | 🗂️🗂️🗂️🗂️🗂️       |
+
+---
+
+### 🛠️ Ferramentas
+
+`Notion` | `Trello` | `Jira` | `Miro` | `Kali Linux` | `Canva` | `Figma`  
+
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Kali](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
-<br><hr><br>
+---
 
-<br><hr><br>
+### 🌍 Idiomas
+
+- 🇧🇷 **Português** (Nativo)
+- 🇺🇸 **Inglês** (Intermediário em evolução)
+- 🇪🇸 **Espanhol** (Avançado)
+
+---
+
+### 📜 Certificações
+
+- 🛡️ ISC2 Certified in Cybersecurity *(em andamento)*
+- ✅ Scrum Foundation
+- 🔎 Security Blue Team: OSINT e Forense
+- 🎓 MBA em Gestão de Projetos
+
+
+</div>
+
+
 
