@@ -1,146 +1,143 @@
-
-
-   <div align="center">
+<div align="center">
   
-#  Marina Pedreira  
+# Marina Pedreira
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk3d2V1Z2x2dWl1b2V6Y2VjZ3BjeHk5eTJ6cG5tY2ZlcWZ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMcB8XospGZO8UQq87/giphy.gif" width="200">
 
-**`Coordenadora de Projetos | EGestão Ágil | Psicóloga Tech | Trainee Cibersegurança`**  
+**`Scrum Master | Agile Delivery Leader | Strategic PMO | Driving Predictability, Efficiency & Agile Maturity`**  
 
-
-+ Transformando conhecimento e ideias  em soluções.
++9 anos transformando equipes e processos através de agilidade, dados e desenvolvimento humano
 
 <div align="center">
 
 [![Projetos](https://img.shields.io/badge/-🚀_PROJETOS-8A2BE2?style=for-the-badge&logo=starship&logoColor=white)](https://github.com/MaryPeh)
-[![LinkedIn](https://img.shields.io/badge/-💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marina-pedreira)
+[![LinkedIn](https://img.shields.io/badge/-💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marinapedreira)
 [![WhatsApp](https://img.shields.io/badge/-💬_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561996046037)
 
 ---
 </div>
 
-
-    
-## 🧭 Meus Projetos
+## 📊 Resultados Comprovados
 
 <div align="center">
-<br>
 
+| Métrica | Melhoria | Impacto |
+|---------|----------|---------|
+| Previsibilidade de Entregas | **+69%** | Squads mais confiáveis |
+| Lead Time | **-49%** | Time-to-market acelerado |
+| Eficiência Operacional | **+58%** | Processos otimizados |
+| Conflitos Internos | **-79%** | Cultura colaborativa |
+| NPS | **+30 pontos** | Satisfação do cliente |
 
-### 🟪🟩 Explore clicando nos botões 👇
+</div>
+
+---
+    
+## 🧭 Experiência em Destaque
+
+<div align="center">
+
+### 🟪🟩 Clique para explorar projetos representativos 👇
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/MaryPeh/one-step" target="_blank">
-        <img src="https://img.shields.io/badge/-🧠_ONE_STEP-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="ONE STEP"/>
-      </a><br>
-      <sub>Projeto EAD de Desenvolvimento Pessoal com base em Neurociência, Psicologia e Eneagrama</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MaryPeh/kids-security" target="_blank">
-        <img src="https://img.shields.io/badge/-🛡️_KIDS_SECURITY-228B22?style=for-the-badge&logo=codeforces&logoColor=white" alt="Kids Security"/>
-      </a><br>
-      <sub>Cyber Segurança, Psicologia e Educação Digital para Crianças</sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/MaryPeh/forja-company" target="_blank">
-        <img src="https://img.shields.io/badge/-🎨_FORJA_COMPANY-8A2BE2?style=for-the-badge&logo=artstation&logoColor=white" alt="Forja Company"/>
+        <img src="https://img.shields.io/badge/-🎯_FORJA_COMPANY-8A2BE2?style=for-the-badge&logo=artstation&logoColor=white" alt="Forja Company"/>
       </a><br>
-      <sub>E-commerce com identidade cultural: biomas brasileiros e consumo consciente</sub>
+      <sub>Liderança de 3 squads: +69% previsibilidade, -49% lead time</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MaryPeh/humano-arte" target="_blank">
+        <img src="https://img.shields.io/badge/-🏢_HUMANO_ARTE-228B22?style=for-the-badge&logo=codeforces&logoColor=white" alt="Humano Arte"/>
+      </a><br>
+      <sub>PMO do zero: -62% retrabalho, +96% eficiência</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MaryPeh/pmi-projetos" target="_blank">
+        <img src="https://img.shields.io/badge/-🤝_PMI_PROJETOS-8A2BE2?style=for-the-badge&logo=heart&logoColor=white" alt="PMI Projetos"/>
+      </a><br>
+      <sub>12 projetos simultâneos com governança ágil</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/MaryPeh/emocoes-blindadas" target="_blank">
-        <img src="https://img.shields.io/badge/-🧷_EMOÇÕES_BLINDADAS-228B22?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Emoções Blindadas"/>
+      <a href="https://github.com/MaryPeh/learning-solution" target="_blank">
+        <img src="https://img.shields.io/badge/-🎓_LEARNING_SOLUTION-228B22?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Learning Solution"/>
       </a><br>
-      <sub>Projeto de apoio emocional para vítimas de engenharia social</sub>
+      <sub>+74% engajamento em trilhas de aprendizagem</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/MaryPeh/life-solution" target="_blank">
-        <img src="https://img.shields.io/badge/-🧘_LIFE_SOLUTION-8A2BE2?style=for-the-badge&logo=polywork&logoColor=white" alt="Life Solution"/>
+      <a href="https://github.com/MaryPeh/one-step" target="_blank">
+        <img src="https://img.shields.io/badge/-🧠_ONE_STEP-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="ONE STEP"/>
       </a><br>
-      <sub>Psicoterapia e Desenvolvimento Pessoal e Organizacional com foco empreendedor</sub>
+      <sub>Neurociência aplicada ao desenvolvimento ágil</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/MaryPeh/osint-simulations" target="_blank">
-        <img src="https://img.shields.io/badge/-🕵️_OSINT_SIMULATIONS-228B22?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Simulações de OSINT"/>
+      <a href="https://github.com/MaryPeh/kids-security" target="_blank">
+        <img src="https://img.shields.io/badge/-🛡️_KIDS_SECURITY-228B22?style=for-the-badge&logo=shield&logoColor=white" alt="Kids Security"/>
       </a><br>
-      <sub>Simulações éticas de engenharia social e investigações OSINT personalizadas</sub>
+      <sub>Integrando segurança e psicologia</sub>
     </td>
   </tr>
 </table>
-<div align="center">
-
-<div align="center">
-
-## 🧠 HABILIDADES & COMPETÊNCIAS
-
-🎯 *Dashboard de habilidades técnicas, emocionais e estratégicas*
-
----
-
-### ⚙️ Habilidades Técnicas
-
-| Habilidade             | Emoji | Nível            |
-| ---------------------- | ----- | ---------------- |
-| 🕵️‍♀️ OSINT           | 🧠🔍  | ██████ ░ 55%     |
-| 🧠 Engenharia Social   | 🗣️🧩 | █████████░░ 100% |
-| 📊 Gestão de Projetos  | 📋⚙️  | ████████░░  95%  |
-| ✍️ Design Instrucional | 🖍️📚 | ███████░░░ 70%   |
-| 🐍 Python              | 💻🧪  | ██████░░░░ 45%   |
-| 🔐 Risco Humano        | 🔍🧠  | █████░░░░░ 60%   |
-
-> 💡 *Escala de 0 a 100% — baseada em formação, prática e domínio atual.*
-
----
-
-### 💡 Soft Skills Estratégicas
-
-| Comunicação | Criatividade | Liderança | Organização | Empatia    |
-| ----------- | ------------ | --------- | ----------- | ---------- |
-| 💬💬💬💬⚪   | 🎨🎨🎨🎨🎨   | 🚀🚀🚀🚀⚪ | 📅📅📅⚪⚪    | 💖💖💖💖💖 |
-
----
-
-### 🧩 Diferenciais Humanos
-
-| Psicologia Aplicada | Visão Sistêmica | Pensamento Crítico | Curadoria de Conteúdo |
-| ------------------- | --------------- | ------------------ | --------------------- |
-| 🧠🧠🧠🧠🧠          | 🌐🌐🌐🌐🌐      | 🤔🤔🤔🤔🤔         | 🗂️🗂️🗂️🗂️🗂️       |
-
----
-
-### 🛠️ Ferramentas
-
-`Notion` | `Trello` | `Jira` | `Miro` | `Kali Linux` | `Canva` | `Figma`  
-
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Kali](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-
----
-
-### 🌍 Idiomas
-
-- 🇧🇷 **Português** (Nativo)
-- 🇺🇸 **Inglês** (Intermediário em evolução)
-- 🇪🇸 **Espanhol** (Avançado)
-
----
-
-### 📜 Certificações
-
-- 🛡️ ISC2 Certified in Cybersecurity *(em andamento)*
-- ✅ Scrum Foundation
-- 🔎 Security Blue Team: OSINT e Forense
-- 🎓 MBA em Gestão de Projetos
-
 
 </div>
 
+<div align="center">
+
+## 🛠️ HABILIDADES & COMPETÊNCIAS
+
+🎯 *Expertise em Agilidade, Governança e Desenvolvimento de Equipes*
+
+---
+
+### ⚙️ Frameworks & Metodologias
+
+| Framework | Nível | Especialização |
+|-----------|-------|----------------|
+| **Scrum** | ████████░░ 90% | Squads multidisciplinares, métricas ágeis |
+| **Kanban** | ████████░░ 85% | WIP limits, fluxo contínuo |
+| **OKRs** | ████████░░ 88% | Alinhamento estratégico |
+| **Disciplined Agile** | ██████░░░░ 75% | Context-aware delivery |
+| **PMBOK/PMO** | ████████░░ 92% | Governança híbrida |
+| **Lean Six Sigma** | █████░░░░░ 70% | Otimização de processos |
+
+---
+
+### 🎯 Competências Técnicas
+
+| Área | Ferramentas | Especialização |
+|------|-------------|----------------|
+| **Gestão Ágil** | `Jira` `Confluence` `ClickUp` `Trello` `MS Project` | Dashboards, métricas, OKRs |
+| **Análise de Dados** | `Power BI` `Google Analytics` `Excel` | KPI tracking, decisões data-driven |
+| **CRM & Marketing** | `HubSpot` `Salesforce` | +83% conversão, integração |
+| **Design & Colaboração** | `Figma` `Miro` `Mural` | Design thinking, workshops |
+| **Tecnologia** | `Machine Learning` `Python` `Google Cloud` | AI corporativa, análise preditiva |
+
+---
+
+### 🌟 Soft Skills & Liderança
+
+| Competência | Nível | Destaque |
+|-------------|-------|----------|
+| **Liderança Servidora** | ██████████ 100% | -79% conflitos, +30 NPS |
+| **Comunicação Estratégica** | █████████░ 95% | Stakeholders China-Brasil |
+| **Transformação Cultural** | ██████████ 98% | +96% eficiência processos |
+| **Gestão de Mudança** | █████████░ 90% | Adoção voluntária de práticas |
+| **Desenvolvimento de Equipes** | ██████████ 100% | Coaching ágil, mentoria |
+
+---
+
+### 📈 Métricas de Performance
+
+```python
+# Resultados Comprovados
+previsibilidade = "+69%"
+lead_time = "-49%"
+produtividade = "+66%"
+retrabalho = "-62%"
+eficiencia = "+96%"
+engajamento = "+74%"
+nps = "+30 pontos"
 
 
