@@ -128,16 +128,20 @@
 
 ---
 
+---
+
 ### 📈 Métricas de Performance
 
-```python
-# Resultados Comprovados
-previsibilidade = "+69%"
-lead_time = "-49%"
-produtividade = "+66%"
-retrabalho = "-62%"
-eficiencia = "+96%"
-engajamento = "+74%"
-nps = "+30 pontos"
+| KPI | Resultado | Impacto |
+|-----|-----------|---------|
+| **Previsibilidade** | **+69%** | Entregas confiáveis |
+| **Lead Time** | **-49%** | Velocidade de mercado |
+| **Produtividade** | **+66%** | Eficiência de squads |
+| **Eficiência** | **+58%** | Processos otimizados |
+| **Retrabalho** | **-62%** | Qualidade entregue |
+| **Engajamento** | **+74%** | Equipes motivadas |
+| **NPS** | **+30 pts** | Cliente satisfeito |
+
+---
 
 
